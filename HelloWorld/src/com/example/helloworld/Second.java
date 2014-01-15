@@ -13,6 +13,7 @@ public class Second {
 	private int mSeconds;
 	private int mHours;
 	private String mTime;
+	private String mAddon;
 
 	/**
 	 * @param seconds
